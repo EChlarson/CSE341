@@ -1,0 +1,11 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "Assignments for CSE 341.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elizabeth Chlarson",
+  "license": "ISC"
+}
